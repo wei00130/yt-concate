@@ -1,2 +1,4 @@
 certifi==2020.12.5
 python-dotenv==0.15.0
+pytube3==9.6.4
+typing-extensions==3.7.4.3
